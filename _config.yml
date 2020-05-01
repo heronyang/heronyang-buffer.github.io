@@ -1,5 +1,14 @@
----
----
+# GitHub Page defaults
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
 # Site Settings
 title: Heron's Buffer
 description: >-
