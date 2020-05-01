@@ -4,5 +4,5 @@ gem "github-pages", group: :jekyll_plugins
 
 # Plugins
 group :jekyll_plugins do
-  gem 'jekyll-sitemap'
+  # gem 'jekyll-sitemap'
 end
