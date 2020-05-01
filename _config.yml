@@ -10,4 +10,4 @@ url: "https://buffer.heron.me"
 
 # Build Settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
