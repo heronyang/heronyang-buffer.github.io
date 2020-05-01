@@ -1,22 +1,6 @@
-# GitHub Page defaults
-lsi: false
-safe: true
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
-
-# Site Settings
 title: Heron's Buffer
 description: >-
   Buffer place for my software development blogs. Mature ones are published at https://blog.heron.me.
 email: heron.yang.tw@gmail.com
-
 url: "https://buffer.heron.me"
-
-# Build Settings
-markdown: kramdown
 theme: minima
