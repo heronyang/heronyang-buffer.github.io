@@ -1,4 +1,4 @@
---
+---
 layout: post
 title: "Setup A Minimal Blog"
 ---
